@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>SignalR_Demo.Domain</AssemblyName>
+    <RootNamespace>SignalR_Demo.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
